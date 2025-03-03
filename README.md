@@ -24,7 +24,7 @@ Você pode instalar a biblioteca `requests` usando o pip:
 
 
 
-## Como executar o projeto?
+# Como executar o projeto?
 
 1- Clone este repositório ou faça o download do arquivo main.py
 2- Execute o código python
@@ -34,7 +34,7 @@ Você pode instalar a biblioteca `requests` usando o pip:
 
 3- Uma janela da interface gráfica será aberta, exibindo os preços atualizados do Bitcoin em USD, EUR e BRL.
 
-## Estrutura do Código
+# Estrutura do Código
 
 API utilizada:
 API pública Cryptocompare
@@ -44,7 +44,7 @@ A função info() é a responsável por trazer as informações da API para o pr
 O usuário não tem uma interação direta com a aplicação, sendo esta apenas informativa, porém, muito útil para quem gosta de
 estar atualizado sobre o mercado de criptomoedas.
 
-## Contribuições
+# Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests para melhorar o projeto.
 
