@@ -22,26 +22,26 @@ Você pode instalar a biblioteca `requests` usando o pip:
     pip install requests
 
 
-
-# Como executar o projeto?
-
-## Clone este repositório ou faça o download do arquivo main.py
-## Execute o código python
-
-  ```bash
-    python main.py
-
-## Uma janela da interface gráfica será aberta, exibindo os preços atualizados do Bitcoin em USD, EUR e BRL.
-
-# Estrutura do Código
-
-API utilizada:
-API pública Cryptocompare
-
-A biblioteca Tkinter abre uma interface configurada com elementos de CSS3 inseridos no código, permitindo a visualização do programa.
-A função info() é a responsável por trazer as informações da API para o programa.
-O usuário não tem uma interação direta com a aplicação, sendo esta apenas informativa, porém, muito útil para quem gosta de
-estar atualizado sobre o mercado de criptomoedas.
+  
+  # Como executar o projeto?
+  
+  ## Clone este repositório ou faça o download do arquivo main.py
+  ## Execute o código python
+  
+    ```bash
+      python main.py
+  
+  ## Uma janela da interface gráfica será aberta, exibindo os preços atualizados do Bitcoin em USD, EUR e BRL.
+  
+  # Estrutura do Código
+  
+  API utilizada:
+  API pública Cryptocompare
+  
+  A biblioteca Tkinter abre uma interface configurada com elementos de CSS3 inseridos no código, permitindo a visualização do programa.
+  A função info() é a responsável por trazer as informações da API para o programa.
+  O usuário não tem uma interação direta com a aplicação, sendo esta apenas informativa, porém, muito útil para quem gosta de
+  estar atualizado sobre o mercado de criptomoedas.
 
 # Contribuições
 
