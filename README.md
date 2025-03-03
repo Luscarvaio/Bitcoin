@@ -2,14 +2,14 @@
 
 Este é um projeto Python que utiliza a biblioteca `tkinter` para criar uma interface gráfica simples que exibe em tempo real o preço atual do Bitcoin em três moedas diferentes: Dólar Americano (USD), Euro (EUR) e Real Brasileiro (BRL). O projeto faz uso de uma API pública para obter os dados atualizados do preço do Bitcoin.
 
-## Funcionalidades
+# Funcionalidades
 
 - Exibe o preço atual do Bitcoin em Dólar Americano (USD).
 - Exibe o preço atual do Bitcoin em Euro (EUR).
 - Exibe o preço atual do Bitcoin em Real Brasileiro (BRL).
 - Atualiza os preços em tempo real (a cada segundo).
 
-## Pré-requisitos
+# Pré-requisitos
 
 Antes de executar o projeto, certifique-se de que você possui os seguintes requisitos instalados:
 
