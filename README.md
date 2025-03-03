@@ -18,9 +18,8 @@ Antes de executar o projeto, certifique-se de que você possui os seguintes requ
 - Biblioteca `requests` (para fazer chamadas à API)
 
 Você pode instalar a biblioteca `requests` usando o pip:
-
   ```bash
-    pip install requests
+    pip install requests;
 
 
 
