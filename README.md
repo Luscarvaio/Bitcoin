@@ -22,6 +22,8 @@ Você pode instalar a biblioteca `requests` usando o pip:
 ```bash
 pip install requests
 
+
+
 ## Como executar o projeto?
 
 1- Clone este repositório ou faça o download do arquivo main.py
