@@ -26,12 +26,10 @@ Antes de executar o projeto, certifique-se de que você possui os seguintes requ
 
 Você pode instalar a biblioteca `requests` usando o pip:
 
-    ```bash
     pip install requests
   
 Agora baixe o arquivo main.py e execute-o:
 
-    ```bash
     python bitcoin_tracker.py
 
 ## Estrutura do projeto:
