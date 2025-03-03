@@ -19,8 +19,8 @@ Antes de executar o projeto, certifique-se de que você possui os seguintes requ
 
 Você pode instalar a biblioteca `requests` usando o pip:
 
-```bash
-pip install requests
+  ```bash
+  pip install requests
 
 
 
@@ -29,8 +29,8 @@ pip install requests
 1- Clone este repositório ou faça o download do arquivo main.py
 2- Execute o código python
 
-```bash
-python main.py
+  ```bash
+  python main.py
 
 3- Uma janela da interface gráfica será aberta, exibindo os preços atualizados do Bitcoin em USD, EUR e BRL.
 
