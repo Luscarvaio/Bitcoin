@@ -19,7 +19,7 @@ Antes de executar o projeto, certifique-se de que você possui os seguintes requ
 
 ## Como Rodar o Projeto?
 
-1. Clone o repositório:
+1. Clone o repositório ou realize o download do arquivo main.py:
 
    ```bash
    git clone https://github.com/Luscarvaio/Bitcoin.git
